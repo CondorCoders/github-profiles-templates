@@ -23,6 +23,9 @@ Tu perfil de GitHub es una excelente manera de presentarte y destacar tus proyec
 ### Banner
 - [Profile Header Generator](https://leviarista.github.io/github-profile-header-generator/)
 
+### Animation
+- [SVG Typing Animation](https://readme-typing-svg.herokuapp.com/demo/)
+
 ### Generador de Perfiles
 - [Profile Me](https://www.profileme.dev/)
 - [Profilinator](https://profilinator.rishav.dev/)
